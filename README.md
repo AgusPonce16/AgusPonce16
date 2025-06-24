@@ -1,3 +1,4 @@
+
 <h1 align="center"><b>Hola, soy Agustín</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
@@ -44,11 +45,18 @@
 
 ---
 
+## 📂 Proyecto destacado
+
+### [Va Mates](https://github.com/AgusPonce16/va-mates)
+Sistema de gestión de stock, ventas, compras y análisis financiero para un emprendimiento real. Desarrollado en PHP + SQL con métricas clave y control automatizado.
+
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=radical" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AgusPonce16&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgusPonce16&layout=compact&theme=radical" width="350"/>
 </div>
 
 ---
@@ -56,11 +64,11 @@
 ## 🤝 Conectá conmigo
 
 <p align="left">
-<a href="https://www.linkedin.com/in/tu-linkedin/" target="_blank">
+<a href="https://www.linkedin.com/in/agustin-ponce/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Agustin%20Ponce-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:tuemail@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-tuemail@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:agusponceib@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-agusponceib@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
 
