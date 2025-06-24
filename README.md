@@ -14,7 +14,7 @@
 <picture> <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width = 200px></picture>
 
 - 🎓 Técnico en Desarrollo de Software y Técnico en Reparación de PC  
-- 📊 Estudiando Data Science, Python e Inteligencia Artificial  
+- 📊 Estudiando Data Science e Inteligencia Artificial  
 - 🧠 Enfocado en backend, SQL y análisis de datos aplicados a proyectos reales  
 - 🚀 Creador de **Va Mates**, un sistema completo de gestión para mi emprendimiento  
 - 🎯 Busco crecer profesionalmente en el área de datos, integrando automatización y backend
