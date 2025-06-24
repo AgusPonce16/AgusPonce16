@@ -16,7 +16,7 @@
 - 📊 Estudiando **Data Science** e **Inteligencia Artificial para Programadores**  
 - 🧠 Me gusta resolver problemas reales, automatizar tareas y trabajar con bases de datos  
 - 🧉 Creador de *Va Mates*, donde desarrollé un sistema completo de gestión en PHP + SQL  
-- 🎯 Mi objetivo es crecer como **analista de datos** y desarrollador backend.
+- 🎯 Mi objetivo es crecer como **analista de datos** aprovechando mi base en backend para crear soluciones útiles y automatizadas.
 
 ---
 
