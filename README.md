@@ -24,7 +24,7 @@
 
 | Proyecto | Descripción |
 |---------|-------------|
-| [Va Mates](https://github.com/tu_usuario/va-mates) | Sistema de stock, ventas y análisis financiero para mi emprendimiento |
+| [Va Mates](https://github.com/AgusPonce16/va-mates) | Sistema de stock, ventas y análisis financiero para mi emprendimiento |
 
 ---
 
