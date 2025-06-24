@@ -4,7 +4,7 @@
 
 </div>
 
-<img src="https://i.imgur.com/NZ6waCZ.png" alt="va-mates" width="200"/>
+
 
 [![GitHub followers](https://img.shields.io/github/followers/tu_usuario?style=social)](https://github.com/tu_usuario)
 
