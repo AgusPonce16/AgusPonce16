@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00ADB5&size=25&center=true&vCenter=true&width=700&height=60&lines=Técnico+en+Desarrollo+de+Software;Estudiando+Data+Science+y+Python;Enfocado+en+backend+y+análisis+de+datos;Construyendo+proyectos+reales+como+Va+Mates">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00ADB5&size=25&center=true&vCenter=true&width=700&height=60&lines=Técnico+en+Desarrollo+de+Software;Estudiando+Data+Science+e+IA;Enfocado+en+backend+y+análisis+de+datos">
   </a>
 </p>
 
